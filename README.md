@@ -1,16 +1,33 @@
-# magic_ball
+# magic_8_ball
 
 A new Flutter project.
 
-## Getting Started
+Screenshots:<br/>
+<p >
+<img width="250" src="https://user-images.githubusercontent.com/71442681/182360823-d93f2c97-b2ce-4bc5-99c8-85483174bea9.jpg">
+</p>
 
-This project is a starting point for a Flutter application.
+<br/>
+<p >
+  <img width="250" src="https://user-images.githubusercontent.com/71442681/182360901-99788d26-2dd0-4b52-86d8-e04765adc625.jpg">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<br/>
+<p>
+  <img width="250" src="https://user-images.githubusercontent.com/71442681/182361020-b737a33f-d384-4e2f-bca9-07c2b62002cc.jpg">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br/>
+<p> <img width="250" src="https://user-images.githubusercontent.com/71442681/182361479-2bbd6c92-0139-4c83-ab2d-4f6ee5969343.jpg">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
+<p> <img width="250" src="https://user-images.githubusercontent.com/71442681/182361935-f5eb738e-03e0-40e6-af38-c1fe9482f1cf.png">
+</p>
+
+<br/>
+App icon:<br/>
+<p >
+  <img width="250" src="https://user-images.githubusercontent.com/71442681/182362104-669e0d66-c34e-4c07-a9de-9a1511d88ad6.png">
+</p>
+
