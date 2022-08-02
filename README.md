@@ -1,7 +1,15 @@
 # magic_8_ball
 
-A new Flutter project.
+A new Flutter project.<br/>
+The Magic 8-Ball is a sphere made to resemble an eight-ball used in pool billiards that's used for fortune-telling and seeking advice. <br/>
 
+The answers given:<br/>
+- Yes
+- No
+- The answer is yes
+- I have no idea
+- Ask again later<br/>
+- 
 Screenshots:<br/>
 <p >
 <img width="250" src="https://user-images.githubusercontent.com/71442681/182360823-d93f2c97-b2ce-4bc5-99c8-85483174bea9.jpg">
